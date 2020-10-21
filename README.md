@@ -72,7 +72,7 @@ This project is not open to contributions.
 This project does not use versions at this time. 
 
 ## Authors
-Ruth Lee
+Ruiz Ruth Cayetano Sanchez
 
 ## License
 MIT
